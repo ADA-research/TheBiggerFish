@@ -1,6 +1,7 @@
 # The Bigger Fish: A comparison of state-of-the-art QSAR models on low-resourced aquatic toxicity regression tasks
 
-![Graphical Abstract](https://user-images.githubusercontent.com/37438887/213145440-94bfe4a5-48c6-4f50-88b0-50da54bbc0ad.jpg)
+![image](https://github.com/ADA-research/TheBiggerFish/assets/37438887/a4125b30-7cfa-4b77-9a76-2bccb7aee88f)
+
 
 *Abstract:* 
 Toxicological information as needed for risk assessments of chemical compounds is often sparse. 
